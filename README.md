@@ -21,7 +21,6 @@
 <a href="https://instagram.com/aldhinoerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aldhinoerman" height="30" width="40" /></a>
 <a href="https://dribbble.com/aldhinoerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="aldhinoerman" height="30" width="40" /></a>
 <a href="https://www.behance.net/aldhinoerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="aldhinoerman" height="30" width="40" /></a>
-<a href="https://medium.com/@aldhinoerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aldhinoerman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aldhinoerman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aldhinoerman" height="30" width="40" /></a>
 </p>
 
